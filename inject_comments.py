@@ -86,10 +86,10 @@ GISCUS_SNIPPET = """
 
     var s = document.createElement('script');
     s.src = 'https://giscus.app/client.js';
-    s.setAttribute('data-repo', 'opengeos/myst-blog-template');           // TODO: Update
-    s.setAttribute('data-repo-id', 'R_kgDOSEV_NQ');         // TODO: Update
+    s.setAttribute('data-repo', 'justinlin-dl/justinlin-dl.github.io');           // TODO: Update
+    s.setAttribute('data-repo-id', 'R_kgDOThnMgg');         // TODO: Update
     s.setAttribute('data-category', 'General');              // TODO: Update
-    s.setAttribute('data-category-id', 'DIC_kwDOSEV_Nc4C6-8R');   // TODO: Update
+    s.setAttribute('data-category-id', 'DIC_kwDOThnMgs4DB01I');   // TODO: Update
     s.setAttribute('data-mapping', 'pathname');
     s.setAttribute('data-strict', '0');
     s.setAttribute('data-reactions-enabled', '1');
