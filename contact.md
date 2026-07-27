@@ -5,14 +5,15 @@ description: Get in touch.
 
 # Contact
 
+If you enjoy my work, feel free to **contact me**! I'll be active on all the services below:
+
 ## Email
 
-[jane.doe@example.com](mailto:jane.doe@example.com)
+[justinlin977@gmail.com](mailto:justinlin977@gmail.com)
 
 ## Connect
 
-- [GitHub](https://github.com/username)
-- [LinkedIn](https://www.linkedin.com/in/username)
-- [Twitter](https://twitter.com/username)
-- [Google Scholar](https://scholar.google.com)
-- [ORCID](https://orcid.org/0000-0000-0000-0000)
+- [GitHub](https://github.com/justinlin-dl)
+- [LinkedIn](https://www.linkedin.com/in/justin-lin-247953347/)
+- [Kaggle](https://www.kaggle.com/justinlin20010)
+- [Instagram](https://www.instagram.com/josytoin/)

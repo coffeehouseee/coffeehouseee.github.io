@@ -1,20 +1,20 @@
 ---
-title: GitHub Pages
-description: Posts tagged with GitHub Pages.
+title: Machine Learning
+description: Posts diving into the field of machine learning and data science.
 ---
 
-# GitHub Pages
+# Machine Learning
 
-Posts tagged with **GitHub Pages**.
+Posts diving into the field of **machine learning** and **data science**.
 
 ## Posts
 
 ::::{grid} 1 1 2 2
 
-:::{card} Build a Professional CV Website with Auto PDF Generation Using MyST Markdown
-:link: /posts/myst-cv-website
-:header: ![thumbnail](https://img.youtube.com/vi/KiceHVININs/maxresdefault.jpg)
-April 10, 2026 - A step-by-step tutorial on building a personal CV website with MyST Markdown and Typst that automatically generates a PDF version of your CV.
+:::{card} Can a Machine Learning Model Become a Seizure Classifier?
+:link: /posts/using-ml-to-build-a-seizure-classifier
+:header: ![thumbnail](https://images.unsplash.com/photo-1711409664431-4e7914ac2370?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+July 27, 2026 - Testing the limits of a machine learning model by training it on a dataset with EEG data to see if it can detect seizures before the worst happens.
 :::
 
 ::::

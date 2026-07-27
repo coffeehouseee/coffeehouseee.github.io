@@ -1,47 +1,30 @@
 ---
-title: My Blog
-subtitle: Thoughts on data science, open-source software, and teaching.
-description: A blog about data science, open-source software, and teaching, powered by MyST Markdown.
+title: Detailed posts regarding how the world is shaping up to be.
+subtitle: Welcome to Coffeehaus, a blog featuring articles about Machine Learning, Political Science, Data Science, and International Relations
+description: A blog about ML, DS, PS, and IR
 ---
 
-# My Blog
+# Detailed posts regarding how the world is shaping up to be.
 
-## Subscribe
-
-- [RSS feed](/rss.xml) (or [Atom](/atom.xml))
-- [LinkedIn](https://www.linkedin.com/in/username)
+- [Kaggle](https://www.kaggle.com/justinlin20010)
+- [LinkedIn](https://www.linkedin.com/in/justin-lin-247953347/)
 
 ---
 
 ## Posts
 
-### 2026
-
 ::::{grid} 1 1 2 2
 
-:::{card} Write Journal Articles with MyST Markdown
-:link: /posts/hi
-:header: ![thumbnail](https://img.youtube.com/vi/iwL-s7aPNYQ/maxresdefault.jpg)
-July 23, 2026 - A step-by-step tutorial on writing journal articles in MyST Markdown with automatic PDF generation and website deployment using a GitHub template.
+:::{card} The Potential War that Could Affect Billions
+:link: /posts/the-potential-war
+:header: ![thumbnail](https://images.unsplash.com/photo-1670859087426-bb5d48f2dd87?q=80&w=1166&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+July 27, 2026 - Taiwan has been at the head of a decades-long debate over whether it's a sovereign nation or the property of China. In this Red Folder Special Report, we examine cross-strait relations between these two countries and predict what comes next.
 :::
 
-:::{card} Write Journal Articles with MyST Markdown: Auto-Generate PDFs and Websites
-:link: /posts/myst-article-template
-:header: ![thumbnail](https://img.youtube.com/vi/iwL-s7aPNYQ/maxresdefault.jpg)
-April 15, 2026 - A step-by-step tutorial on writing journal articles in MyST Markdown with automatic PDF generation and website deployment using a GitHub template.
-:::
-
-::::
-
-
-### 2025
-
-::::{grid} 1 1 2 2
-
-:::{card} A Reusable Template for Building Websites with MyST Markdown
-:link: /posts/myst-website-template
-:header: ![thumbnail](https://img.youtube.com/vi/wj0kAthmusA/maxresdefault.jpg)
-April 7, 2026 - A GitHub template that bundles MyST Markdown, GitHub Pages deployment, Netlify PR previews, and pre-commit hooks into a ready-to-use starting point.
+:::{card} Can a Machine Learning Model Become a Seizure Classifier?
+:link: /posts/using-ml-to-build-a-seizure-classifier
+:header: ![thumbnail](https://images.unsplash.com/photo-1711409664431-4e7914ac2370?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+July 27, 2026 - Testing the limits of a machine learning model by training it on a dataset with EEG data to see if it can detect seizures before the worst happens.
 :::
 
 ::::
