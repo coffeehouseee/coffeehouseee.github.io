@@ -47,7 +47,7 @@ site:
   actions:
     - title: RSS
       url: https://opengeos.org/myst-blog-template/rss.xml
-  template: book-theme
+  template: article-theme
   parts:
     primary_sidebar_footer: ''
     footer: |
