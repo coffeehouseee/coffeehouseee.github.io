@@ -41,17 +41,17 @@ site:
     logo: logo.png
     logo_dark: logo.png
     favicon: fav.ico
-    style: custom.css, journalism.css
+    style: custom.css
     # analytics_google: G-XXXXXXXXXX
     folders: true
   actions:
     - title: RSS
       url: https://opengeos.org/myst-blog-template/rss.xml
-  template: article-theme
+  template: book-theme
   parts:
     primary_sidebar_footer: ''
     footer: |
       [GitHub](https://github.com/justinlin-dl) |
       [LinkedIn](https://www.linkedin.com/in/justin-lin-247953347/) |
       [Kaggle](https://www.kaggle.com/justinlin20010) |
-      [Instagram](https://www.instagram.com/josytoin/)
+      [Instagram](https://www.instagram.com/josytoin/) |
