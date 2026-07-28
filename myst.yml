@@ -41,7 +41,7 @@ site:
     logo: logo.png
     logo_dark: logo.png
     favicon: fav.ico
-    style: custom.css
+    style: custom.css, journalism.css
     # analytics_google: G-XXXXXXXXXX
     folders: true
   actions:
@@ -55,4 +55,3 @@ site:
       [LinkedIn](https://www.linkedin.com/in/justin-lin-247953347/) |
       [Kaggle](https://www.kaggle.com/justinlin20010) |
       [Instagram](https://www.instagram.com/josytoin/)
-  css: journalism.css
