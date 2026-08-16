@@ -1,3 +1,22 @@
+---
+title: "When an AI model escapes, what happens?"
+date: 2026-07-27
+authors:
+  - name: Justin Lin
+    email: justinlin977@gmail.com
+    url: https://justinlin-dl.github.io
+description: AI escapes have been heading the news for the past month. What do they do, and should we be worried?
+thumbnail: https://images.unsplash.com/photo-1679403766665-67ed6cd2df30?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+tags:
+  - Machine Learning
+  - Political Science
+  - News
+keywords:
+  - News
+  - Machine Learning
+
+---
+
 In July of this year, machine learning platform Hugging Face detected an unknown malicious actor attempting to hack into their production infrastructure. In a dataset onto their website, lines of code that were deployed onto Hugging Face [manipulated their processing system to breach into the infrastructure of the platform](https://huggingface.co/blog/security-incident-july-2026/) and ultimately steal data and other credentials.
 
 Five years ago, one may have imagined that this was only an action that could be performed by a black hat hacker of sorts, someone who had enough conscience to purposefully perform an act this malicious in a contorted effort towards personal gain. It would be reasonable to think that - before this one incident, all hacks on a platform with security like Hugging Face were, in fact, made by humans. However, this one was not.
