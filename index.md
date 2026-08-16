@@ -15,6 +15,12 @@ description: A blog about ML, DS, PS, and IR
 
 ::::{grid} 1 1 2 2
 
+:::{card} When an AI model escapes, what happens?
+:link: /posts/when-an-ai-model-escapes-what-happens
+:header: ![thumbnail](https://images.unsplash.com/photo-1679403766665-67ed6cd2df30?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+July 27, 2026 - Testing the limits of a machine learning model by training it on a dataset with EEG data to see if it can detect seizures before the worst happens.
+:::
+
 :::{card} The Potential War that Could Affect Billions
 :link: /posts/the-potential-war
 :header: ![thumbnail](https://images.unsplash.com/photo-1670859087426-bb5d48f2dd87?q=80&w=1166&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
