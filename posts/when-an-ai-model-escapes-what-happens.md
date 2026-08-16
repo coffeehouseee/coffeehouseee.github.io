@@ -1,6 +1,6 @@
 ---
 title: "When an AI model escapes, what happens?"
-date: 2026-07-27
+date: 2026-08-15
 authors:
   - name: Justin Lin
     email: justinlin977@gmail.com
