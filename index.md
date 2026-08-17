@@ -1,6 +1,6 @@
 ---
 title: Detailed posts regarding how the world is shaping up to be.
-subtitle: Welcome to Coffeehaus, a blog featuring articles about Machine Learning, Political Science, Data Science, and International Relations
+subtitle: Welcome to Coffeehouse, a blog featuring articles about Machine Learning, Political Science, Data Science, and International Relations
 description: A blog about ML, DS, PS, and IR
 ---
 
