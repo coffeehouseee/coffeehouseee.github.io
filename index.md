@@ -1,6 +1,6 @@
 ---
 title: Detailed posts regarding how the world is shaping up to be.
-subtitle: Welcome to Coffeehouse, a blog featuring articles about Machine Learning, Political Science, Data Science, and International Relations
+subtitle: A new world of AI ethics starts here, at Coffeehouse
 description: A blog about ML, DS, PS, and IR
 ---
 
