@@ -1,0 +1,17 @@
+/* Import journalism-style serif fonts */
+@import url('https://googleapis.com');
+
+/* Apply editorial font to the main article reading area */
+.myst-content, article, p {
+    font-family: 'Merriweather', Georgia, serif !important;
+    font-size: 1.15rem;
+    line-height: 1.75;
+    color: #111111;
+}
+
+/* Apply punchy headline font to the title and headings */
+h1, h2, h3, .site-title {
+    font-family: 'Playfair Display', 'Times New Roman', serif !important;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+}
