@@ -1,6 +1,6 @@
 version: 1
 project:
-  title: Coffeehaus
+  title: Coffeehouse
   description: A blog about data science, open-source software, and teaching, powered by MyST Markdown.
   # thumbnail: images/profile-thumbnail.webp
   # authors:
@@ -51,7 +51,7 @@ site:
   parts:
     primary_sidebar_footer: ''
     footer: |
-      [GitHub](https://github.com/justinlin-dl) |
+      [GitHub](https://github.com/thecoffeehousee) |
       [LinkedIn](https://www.linkedin.com/in/justin-lin-247953347/) |
       [Kaggle](https://www.kaggle.com/justinlin20010)
       [Instagram](https://www.instagram.com/josytoin/)
