@@ -4,7 +4,7 @@ date: 2026-07-27
 authors:
   - name: Justin Lin
     email: justinlin977@gmail.com
-    url: https://thecoffeehousee.github.io
+    url: https://coffeehouseee.github.io
 description: Testing the limits of a machine learning model by training it on a dataset with EEG data to see if it can detect seizures before it happens.
 tags:
   - Machine Learning
