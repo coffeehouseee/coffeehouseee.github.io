@@ -15,6 +15,12 @@ description: A blog about ML, DS, PS, and IR
 
 ::::{grid} 1 1 2 2
 
+:::{card} Deciphering OpenAI's AI escape report
+:link: /posts/deciphering-openai-s-ai-escape-report
+:header: ![thumbnail](https://substackcdn.com/image/fetch/$s_!_EWv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Facaf3bd5-7213-4bd1-be46-d9ee61caa40f_1920x1080.png)
+September 2, 2026 - OpenAI released a report explaining why one of their models escaped containment. Let's dive in.
+:::
+
 :::{card} When an AI model escapes, what happens?
 :link: /posts/when-an-ai-model-escapes-what-happens
 :header: ![thumbnail](https://images.unsplash.com/photo-1679403766665-67ed6cd2df30?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
