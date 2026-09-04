@@ -17,7 +17,7 @@ keywords:
 
 ---
 
-☆ This project is designed to continue bridging the gap between neuroscience and machine learning together by analyzing different types of ML models on an increasingly important topic in today's society: seizure classification.
+This project is designed to continue bridging the gap between neuroscience and machine learning together by analyzing different types of ML models on an increasingly important topic in today's society: seizure classification.
 
 Inherently, neural networks already act like the brain - it's quite literally in the name. It'll be fun to see how this plays out!
 
