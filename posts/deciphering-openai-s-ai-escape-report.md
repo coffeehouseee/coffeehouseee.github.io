@@ -6,7 +6,7 @@ authors:
     email: justinlin977@gmail.com
     url: https://coffeehouseee.github.io
 description: OpenAI released a report detailing what happened when one of its models escaped containment. Let's dive in.
-tagss
+tags:
   - Ethics
   - Political Science
 keywords:
