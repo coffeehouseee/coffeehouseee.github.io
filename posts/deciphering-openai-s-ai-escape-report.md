@@ -1,3 +1,19 @@
+---
+title: "Deciphering OpenAI's AI escape report"
+date: 2026-07-27
+authors:
+  - name: Justin Lin
+    email: justinlin977@gmail.com
+    url: https://coffeehouseee.github.io
+description: OpenAI released a report detailing what happened when one of its models escaped containment. Let's dive in.
+tagss
+  - Ethics
+  - Political Science
+keywords:
+  - Blog post
+  - Ethics
+---
+
 In my previous blog post, I explained what happened when one of OpenAI’s models infiltrated the system of the largest AI library in the world, as well as what is prompting an age of increased AI escapes around the world. In it I said that OpenAI had released a statement promising to release a technical report of their findings regarding their own AI escape once their investigation regarding the situation concluded.
 
 That day has come. On August 26, OpenAI released a [technical report](https://openai.com/index/hugging-face-incident-and-the-road-ahead/) detailing what they found when investigating their model’s escape onto Hugging Face. Four days later, I’m here to analyze their findings, as well as what this report means for the future of AI ethics as we know it. The age of AI escapes is here—but not if we stop it first.
