@@ -1,3 +1,19 @@
+---
+title: "AI brief #1: OpenAI solves Millenium Prize Problem"
+date: 2026-09-14
+authors:
+  - name: Justin Lin
+    email: justinlin977@gmail.com
+    url: https://coffeehouseee.github.io
+description: AI Brief #1
+tags:
+  - Ethics
+  - Political Science
+keywords:
+  - Newsletter
+  - Ethics
+---
+
 Good Monday evening. Here’s some news in AI that you missed in the past few days.
 
 ![](https://substackcdn.com/image/fetch/$s_!Czrd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b8e6b20-bf4e-417c-a52b-b4e0247494ea_738x414.jpeg)
