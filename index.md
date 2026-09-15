@@ -15,6 +15,12 @@ description: A blog about ML, DS, PS, and IR
 
 ::::{grid} 1 1 2 2
 
+:::{card} AI and the data center, part 1
+:link: /posts/AI-and-the-data-center-part-one
+:header: ![thumbnail](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7zR65963MPCPYRjAzF566Bl3bb-w9pe_QFLyJVAFhrcZbWPUUnuTFRNHK&s=10)
+September 11, 2026 - Data centers, something that AI runs on, have plagued the environment for the past couple of years. What happens regarding it?
+:::
+
 :::{card} Deciphering OpenAI's AI escape report
 :link: /posts/deciphering-openai-s-ai-escape-report
 :header: ![thumbnail](https://substackcdn.com/image/fetch/$s_!_EWv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Facaf3bd5-7213-4bd1-be46-d9ee61caa40f_1920x1080.png)
