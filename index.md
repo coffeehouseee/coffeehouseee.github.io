@@ -15,8 +15,8 @@ description: A blog about ML, DS, PS, and IR
 
 ::::{grid} 1 1 2 2
 
-:::{card} AI and the data center, part 1
-:link: /posts/AI-and-the-data-center-part-one
+:::{card} AI brief #1: OpenAI solves Millenium Prize Problem
+:link: /posts/ai-brief-1
 :header: ![thumbnail](https://substackcdn.com/image/fetch/$s_!Czrd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b8e6b20-bf4e-417c-a52b-b4e0247494ea_738x414.jpeg)
 September 14, 2026 - OpenAI solves the Navier-Stokes problem, Anthropic CEO urges AI firms to slow development, and more.
 :::
